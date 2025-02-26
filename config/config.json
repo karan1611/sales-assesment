@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "9141",
+    "database": "salesdb",
+    "host": "locahost",
+    "dialect": "mysql"
+  }
+}
